@@ -3,4 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # netflix-clone
 A Simple Netflix Clone
 Check out here :- 
-###https://dk004.github.io/netflix-clone/
+### https://netflix-clone-170cd.firebaseapp.com/
