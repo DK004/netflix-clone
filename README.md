@@ -46,5 +46,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-# Check App here 🦖 -
-### https://netflix-clone-170cd.firebaseapp.com/
+
